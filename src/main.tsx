@@ -6,6 +6,6 @@ import "./index.css";
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <App />
-    테스트
+    테스트 prefix 0.1
   </React.StrictMode>
 );
