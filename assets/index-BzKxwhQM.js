@@ -209,6 +209,8 @@ table {
   font-size: 16px;
   line-height: 1.2;
   letter-spacing: 0.1px;
+
+  font-weight: 500;
 `,eT=ee.div`
   height: 100vh;
   width: 100%;
@@ -323,15 +325,14 @@ table {
   ${ET};
   * {
     box-sizing : border-box;
-    font-family : "Noto Sans KR", "Roboto";
-    font-family : system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-  }
-  body {
-    height : 500vh;
-    
-    &::-webkit-scrollbar {
-      display : none;
     }
+    body {
+      height : 500vh;
+      font-family : "Noto Sans KR", "Roboto";
+    
+      &::-webkit-scrollbar {
+        display : none;
+      }
   }
 
 `;function RT(){return S.jsxs(S.Fragment,{children:[S.jsx(AT,{}),S.jsx(sw,{}),S.jsx(kT,{}),S.jsx(CT,{})]})}Fl.createRoot(document.getElementById("root")).render(S.jsx(yt.StrictMode,{children:S.jsx(RT,{})}));
