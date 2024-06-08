@@ -201,7 +201,7 @@ table {
   margin-bottom: 20px;
 `,X=ee.div`
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 500;
   margin-bottom: 5px;
 `,$=ee.div`
   margin-left: 5px;
@@ -210,7 +210,7 @@ table {
   line-height: 1.2;
   letter-spacing: 0.1px;
 
-  font-weight: 500;
+  font-weight: normal;
 `,eT=ee.div`
   height: 100vh;
   width: 100%;
