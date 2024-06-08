@@ -20,7 +20,7 @@ export default function LogoScreen() {
   return (
     <ScrollAnimationContainer animationClass="fade-in-15">
       <FullScreen>
-        <Img src="logo.png"></Img>
+        <Img src="gif2.gif"></Img>
       </FullScreen>
     </ScrollAnimationContainer>
   );

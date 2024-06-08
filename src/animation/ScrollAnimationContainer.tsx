@@ -15,6 +15,7 @@ const Wrapper = styled.div`
     animation: ${FadeIn} 1s linear;
   }
   &.fade-in-15 {
+    animation-delay: 200ms;
     animation: ${FadeIn} 1.5s linear;
   }
 

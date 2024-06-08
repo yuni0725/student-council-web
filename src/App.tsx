@@ -1,20 +1,23 @@
 import { createGlobalStyle } from "styled-components";
 import reset from "styled-reset";
 import LogoScreen from "./screen/LogoScreen";
-import StudentScreen from "./screen/StudentScreen";
+import PromiseScreen from "./screen/PromiseScreen";
+import Footer from "./screen/Footer";
+import { fonts } from "./fonts";
 
 const GlobalStyles = createGlobalStyle`
   ${reset};
+  ${fonts};
   * {
     box-sizing : border-box;
-    //add font here
-  }
-  body {
-    height : 300vh;
-    
-    &::-webkit-scrollbar {
-      display : none;
     }
+    body {
+      height : 500vh;
+      font-family : "Noto Sans KR", "Roboto";
+    
+      &::-webkit-scrollbar {
+        display : none;
+      }
   }
 
 `;
@@ -24,7 +27,8 @@ export default function App() {
     <>
       <GlobalStyles></GlobalStyles>
       <LogoScreen></LogoScreen>
-      <StudentScreen></StudentScreen>
+      <PromiseScreen></PromiseScreen>
+      <Footer></Footer>
     </>
   );
 }
