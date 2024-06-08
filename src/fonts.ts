@@ -7,7 +7,7 @@ export const fonts = css`
     font-weight: normal;
     font-display: swap;
     src: local("NotoSansKR"),
-      url("/fonts/NotoSansRegular.woff2") format("woff2");
+      url("asset/fonts/NotoSansRegular.woff2") format("woff2");
   }
 
   @font-face {
@@ -15,7 +15,8 @@ export const fonts = css`
     font-style: normal;
     font-weight: 500;
     font-display: swap;
-    src: local("NotoSansKR"), url("/fonts/NotoSansMedium.woff2") format("woff2");
+    src: local("NotoSansKR"),
+      url("asset/fonts/NotoSansMedium.woff2") format("woff2");
   }
 
   @font-face {
@@ -23,6 +24,7 @@ export const fonts = css`
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: local("NotoSansKR"), url("/fonts/NotoSansBold.woff2") format("woff2");
+    src: local("NotoSansKR"),
+      url("asset/fonts/NotoSansBold.woff2") format("woff2");
   }
 `;

@@ -10,12 +10,14 @@ import FourthName from "../name/fourthName";
 import FourthContent from "../content/fourthContent";
 import FifthName from "../name/fifthName";
 import FifthContent from "../content/fifthContent";
+import SixthName from "../name/sixthName";
+import SixthContent from "../content/sixthContent";
 
 const Wrapper = styled.div`
   display: grid;
   grid-template-columns: 1fr 0.04fr 2fr;
 
-  height: 500vh;
+  height: 600vh;
   width: 100vw;
 `;
 
@@ -25,7 +27,7 @@ const NameDiv = styled.div`
 `;
 
 const ScrollBarDiv = styled.div`
-  height: 500vh;
+  height: 600vh;
   width: 100%;
   position: relative;
 `;
@@ -64,6 +66,7 @@ export default function PromiseScreen() {
           <ThirdName></ThirdName>
           <FourthName></FourthName>
           <FifthName></FifthName>
+          <SixthName></SixthName>
         </NameDiv>
         <ScrollBarDiv>
           <ScrollThumb></ScrollThumb>
@@ -78,6 +81,7 @@ export default function PromiseScreen() {
           <ThirdContent></ThirdContent>
           <FourthContent></FourthContent>
           <FifthContent></FifthContent>
+          <SixthContent></SixthContent>
         </ContentDiv>
       </Wrapper>
     </>

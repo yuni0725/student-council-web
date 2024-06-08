@@ -47,14 +47,6 @@ export default function FifthContent() {
         <Detail>
           학생회 브이로그를 통해 학생회 홍보 효과, 학교 내의 자체 컨텐츠를 제작
         </Detail>
-        <Detail>
-          ex1) 체험해보상산 : 상산고등학교의 행정실, 입학관리부, 동아리 또는
-          학생회 등을 체험해보는 장기 콘텐츠
-        </Detail>
-        <Detail>
-          ex2) (다른) 학교! 다녀오겠습니다 : 전주의 주변 학교, 다른 자사고 등을
-          가서 인터뷰하고 체험해보는 컨텐츠
-        </Detail>
       </SubContent>
     </Content>
   );

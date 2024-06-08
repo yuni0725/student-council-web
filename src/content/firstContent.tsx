@@ -1,5 +1,15 @@
 import { useInView } from "react-intersection-observer";
-import { Content, Detail, SubContent, SubTitle } from "../components/style";
+import { Detail, SubContent, SubTitle } from "../components/style";
+import styled from "styled-components";
+import { motion } from "framer-motion";
+
+const Content = styled(motion.div)`
+  height: 100vh;
+  padding: 20px;
+
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+`;
 
 export default function FirstContent() {
   const { ref, inView } = useInView({ threshold: 0.5 });
@@ -20,22 +30,19 @@ export default function FirstContent() {
       <SubContent>
         <SubTitle>2. 상산 굿즈 개선</SubTitle>
         <Detail>
-          학생 공모전을 통해 상산고등학교 마스코트를 만들어 굿즈에 활용
+          학생 공모전을 통해 상산고등학교 마스코트 선정 후 굿즈에 활용
         </Detail>
       </SubContent>
       <SubContent>
         <SubTitle>3. 상산고등학교 공식 카페</SubTitle>
+        <Detail>자료 공유방을 개설하여, 자료와 기출문제 등을 공유</Detail>
+        <Detail>각 동아리별 학생들과 선생님들 간 커뮤니티 조성</Detail>
         <Detail>
-          분실물 센터, 필기&자료 공유방, 동아리 포럼, 학생 커뮤니티와 같은 역할
-          수행
+          그 외에도 SSEP 팀원 모집, 분실문 보관소 등 다목적으로 사용
         </Detail>
       </SubContent>
       <SubContent>
-        <SubTitle>4. 매점 보완</SubTitle>
-        <Detail>결제 카운터 늘리기, 매점의 줄 정리 방안을 마련</Detail>
-      </SubContent>
-      <SubContent>
-        <SubTitle>5. 모의고사 날 점심 개선</SubTitle>
+        <SubTitle>4. 모의고사 날 편의식 제공</SubTitle>
         <Detail>점심시간이 짧은 모의고사 날 간단한 도시락 제공</Detail>
       </SubContent>
     </Content>
