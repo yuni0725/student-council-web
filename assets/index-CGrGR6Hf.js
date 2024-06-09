@@ -227,7 +227,7 @@ table {
 
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr;
-`;function iT(){const{ref:e,inView:t}=dt({threshold:.5});return S.jsxs(rT,{ref:e,initial:{opacity:0},animate:t?{opacity:1}:{opacity:0},transition:{duration:.5},children:[S.jsxs(U,{children:[S.jsx(W,{children:"1. 시설 신청 시스템 구축"}),S.jsx(z,{children:"체육관, 음악 합주실, 신강 세 가지 공간을 신청할 수 있는 상산 시설 신청 사이트 만들어 운영"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"2. 상산 굿즈 개선"}),S.jsx(z,{children:"학생 공모전을 통해 상산고등학교 마스코트 선정 후 굿즈에 활용"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"3. 상산고등학교 공식 카페"}),S.jsx(z,{children:"자료 공유방을 개설하여, 자료와 기출문제 등을 공유"}),S.jsx(z,{children:"각 동아리별 학생들과 선생님들 간 커뮤니티 조성"}),S.jsx(z,{children:"그 외에도 SSEP 팀원 모집, 분실문 보관소 등 다목적으로 사용"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"4. 모의고사 날 편의식 제공"}),S.jsx(z,{children:"점심시간이 짧은 모의고사 날 간단한 도시락 제공"})]})]})}const oT=H($t.div)`
+`;function iT(){const{ref:e,inView:t}=dt({threshold:.5});return S.jsxs(rT,{ref:e,initial:{opacity:0},animate:t?{opacity:1}:{opacity:0},transition:{duration:.5},children:[S.jsxs(U,{children:[S.jsx(W,{children:"1. 시설 신청 시스템 구축"}),S.jsx(z,{children:"체육관, 음악 합주실, 신강 세 가지 공간을 신청할 수 있는 상산 시설 신청 사이트 만들어 운영"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"2. 상산 굿즈 개선"}),S.jsx(z,{children:"학생 공모전을 통해 상산고등학교 마스코트 선정 후 굿즈에 활용"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"3. 상산고등학교 공식 카페"}),S.jsx(z,{children:"자료 공유방을 개설하여, 자료와 기출문제 등을 공유"}),S.jsx(z,{children:"각 동아리별 학생들과 선생님들 간 커뮤니티 조성"}),S.jsx(z,{children:"그 외에도 SSEP 팀원 모집, 분실문 센터 등 다목적으로 사용"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"4. 모의고사 날 편의식 제공"}),S.jsx(z,{children:"점심시간이 짧은 모의고사 날 간단한 도시락 제공"})]})]})}const oT=H($t.div)`
   height: 100vh;
   padding: 20px;
 
@@ -247,7 +247,7 @@ table {
 
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr;
-`;function cT(){const{ref:e,inView:t}=dt({threshold:.5});return S.jsxs(uT,{ref:e,initial:{opacity:0},animate:t?{opacity:1}:{opacity:0},transition:{duration:.5},children:[S.jsxs(U,{children:[S.jsx(W,{children:"1. 자사고 전국 네트워크"}),S.jsx(z,{children:"현재 다수의 자사고 (하나고, 외대부고, 인천외고, 고양외고, 대일외고, 경기외고, 한민고, 김천고)와 컨택 완료"}),S.jsx(z,{children:"전국 자사고 네트워크를 카페 또는 블로그로 연결하여 주기적으로 소통을 통해 포럼과 같은 합동 프로그램을 진행"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"2. 1학년&2학년 합동 생기부"}),S.jsx(z,{children:"선후배가 함께하는 보고서 작성 프로젝트 진행"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"3. 기출 관련 문제점 보완"}),S.jsx(z,{children:"각 분야의 동아리와 협력하여 기출문제 해설지를 제공"}),S.jsx(z,{children:"각 과목별 서술형 채점 기준표와 등급 컷을 제공"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"4. 스터디 그룹 시스템 구축"}),S.jsx(z,{children:"다양한 사람들과 함께하는 탐구나 단체 스터디에 관심이 있는 학생 지원"}),S.jsx(z,{children:"학습 보고서 제출로 전반적인 학습 분위기 형성"})]})]})}const fT=H.div`
+`;function cT(){const{ref:e,inView:t}=dt({threshold:.5});return S.jsxs(uT,{ref:e,initial:{opacity:0},animate:t?{opacity:1}:{opacity:0},transition:{duration:.5},children:[S.jsxs(U,{children:[S.jsx(W,{children:"1. 자사고 전국 네트워크"}),S.jsx(z,{children:"현재 다수의 자사고 (하나고, 외대부고, 인천외고, 고양외고, 대일외고, 경기외고, 한민고, 김천고)와 컨택 완료"}),S.jsx(z,{children:"전국 자사고 네트워크를 카페 또는 블로그로 연결하여 주기적으로 소통을 통해 포럼과 같은 합동 프로그램을 진행"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"2. 1학년&2학년 합동 생기부"}),S.jsx(z,{children:"선후배가 함께하는 보고서 작성 프로젝트 진행"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"3. 기출 관련 문제점 보완"}),S.jsx(z,{children:"각 분야의 동아리와 협력하여 기출문제 해설지를 제공"}),S.jsx(z,{children:"학생들이 불편해하는 기출관련 사항 개선"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"4. 스터디 그룹 시스템 구축"}),S.jsx(z,{children:"다양한 사람들과 함께하는 탐구나 단체 스터디에 관심이 있는 학생 지원"}),S.jsx(z,{children:"학습 보고서 제출로 전반적인 학습 분위기 형성"})]})]})}const fT=H.div`
   height: 100vh;
   width: 100%;
 
@@ -275,7 +275,7 @@ table {
 
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-`;function vT(){const{ref:e,inView:t}=dt({threshold:.5});return S.jsxs(yT,{ref:e,initial:{opacity:0},animate:t?{opacity:1}:{opacity:0},transition:{duration:.5},children:[S.jsxs(U,{children:[S.jsx(W,{children:"제휴"}),S.jsx(z,{children:"공식 제휴를 통한 할인 이벤트, 적립 이벤트, 더 나아가 시험기간, 시험이 끝난 날 행사 진행"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"1. 생활편의"}),S.jsx(z,{children:"살롱드태가"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"2. 학업"}),S.jsx(z,{children:"어라운드 스터디카페"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"3. 카페"}),S.jsx(z,{children:"메가커피, 곱빼기, 카페온달, 아오테아, 이터리"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"4. 음식점"}),S.jsx(z,{children:"이태리 부대찌개, 천유향 마라향솥, 닭마을 산책"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"5. 여가"}),S.jsx(z,{children:"전북 현대 그린 스쿨"})]}),S.jsx(U,{children:S.jsx(W,{children:"추후 확대 예정"})})]})}const wT=H.div`
+`;function vT(){const{ref:e,inView:t}=dt({threshold:.5});return S.jsxs(yT,{ref:e,initial:{opacity:0},animate:t?{opacity:1}:{opacity:0},transition:{duration:.5},children:[S.jsxs(U,{children:[S.jsx(W,{children:"제휴"}),S.jsx(z,{children:"공식 제휴를 통한 할인 이벤트, 적립 이벤트, 더 나아가 시험기간, 시험이 끝난 날 행사 진행"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"1. 생활편의"}),S.jsx(z,{children:"살롱드태가"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"2. 학업"}),S.jsx(z,{children:"어라운드 스터디카페"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"3. 카페"}),S.jsx(z,{children:"메가커피, 곱빼기, 카페온달, 아오테아 이터리"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"4. 음식점"}),S.jsx(z,{children:"이태리 부대찌개, 천유향 마라향솥, 닭마을 산책"})]}),S.jsxs(U,{children:[S.jsx(W,{children:"5. 여가"}),S.jsx(z,{children:"전북 현대 그린 스쿨"})]}),S.jsx(U,{children:S.jsx(W,{children:"추후 확대 예정"})})]})}const wT=H.div`
   display: grid;
   grid-template-columns: 1fr 0.04fr 2fr;
 
