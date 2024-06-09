@@ -38,7 +38,7 @@ export default function FourthContent() {
       <SubContent>
         <SubTitle>3. 기출 관련 문제점 보완</SubTitle>
         <Detail>각 분야의 동아리와 협력하여 기출문제 해설지를 제공</Detail>
-        <Detail>각 과목별 서술형 채점 기준표와 등급 컷을 제공</Detail>
+        <Detail>학생들이 불편해하는 기출관련 사항 개선</Detail>
       </SubContent>
       <SubContent>
         <SubTitle>4. 스터디 그룹 시스템 구축</SubTitle>

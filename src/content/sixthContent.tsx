@@ -37,7 +37,7 @@ export default function SixthContent() {
       </SubContent>
       <SubContent>
         <SubTitle>3. 카페</SubTitle>
-        <Detail>메가커피, 곱빼기, 카페온달, 아오테아, 이터리</Detail>
+        <Detail>메가커피, 곱빼기, 카페온달, 아오테아 이터리</Detail>
       </SubContent>
       <SubContent>
         <SubTitle>4. 음식점</SubTitle>

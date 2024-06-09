@@ -38,7 +38,7 @@ export default function FirstContent() {
         <Detail>자료 공유방을 개설하여, 자료와 기출문제 등을 공유</Detail>
         <Detail>각 동아리별 학생들과 선생님들 간 커뮤니티 조성</Detail>
         <Detail>
-          그 외에도 SSEP 팀원 모집, 분실문 보관소 등 다목적으로 사용
+          그 외에도 SSEP 팀원 모집, 분실문 센터 등 다목적으로 사용
         </Detail>
       </SubContent>
       <SubContent>
