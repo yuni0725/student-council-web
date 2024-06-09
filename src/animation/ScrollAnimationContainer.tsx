@@ -8,12 +8,6 @@ type PropsType = {
 };
 
 const Wrapper = styled.div`
-  &.fade-in-05 {
-    animation: ${FadeIn} 0.5s linear;
-  }
-  &.fade-in-10 {
-    animation: ${FadeIn} 1s linear;
-  }
   &.fade-in-15 {
     animation-delay: 200ms;
     animation: ${FadeIn} 1.5s linear;

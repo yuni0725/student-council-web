@@ -5,7 +5,7 @@ export const Title = styled(motion.div)`
   position: sticky;
 
   font-size: 30px;
-  font-weight: 700;
+  font-weight: 800;
 
   display: flex;
   flex-direction: column;
@@ -28,7 +28,7 @@ export const SubContent = styled.div`
 
 export const SubTitle = styled.div`
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 5px;
 `;
 
@@ -39,5 +39,5 @@ export const Detail = styled.div`
   line-height: 1.2;
   letter-spacing: 0.1px;
 
-  font-weight: normal;
+  font-weight: 500;
 `;
